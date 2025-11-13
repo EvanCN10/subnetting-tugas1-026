@@ -2,6 +2,8 @@
 
 Laporan ini mendokumentasikan proses perencanaan, perhitungan, dan implementasi jaringan untuk Yayasan Pendidikan ARA berdasarkan soal yang diberikan.
 
+<img width="921" height="722" alt="Screenshot 2025-11-12 234128" src="https://github.com/user-attachments/assets/989ba385-f0da-4034-9ffa-6df43366bf76" />
+
 **Data Utama:**
 * **Base Network Unik:** `10.66.0.0` (Berdasarkan `10.(NRP mod 256).0.0`)
 
